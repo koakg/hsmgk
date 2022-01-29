@@ -1,0 +1,14 @@
+{
+    "name": "VLESS",
+    "description": "Deploy VLESS on Heroku.",
+    "keywords": ["VLESS"],
+    "env": {
+        "ID": {
+            "description": "VLESS ID, please visit https://www.uuidgenerator.net",
+            "value": "70abeb7d-89d7-4d1d-b918-e4de97c3bb4f"
+        }
+    },
+    "repository": "",
+    "stack": "container",
+    "network": "host"
+}
